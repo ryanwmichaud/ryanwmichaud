@@ -1,6 +1,6 @@
 -  Hi, I’m Ryan Michaud
 -  I’m interested in software development
--  I’m currently learning C and Unix
+-  I’m currently learning MIPS Architecture and Racket
 - You can reach me at ryanwilliammichaud@gmail.com
 
 <!---
