@@ -1,6 +1,5 @@
--  Hi, I’m Ryan Michaud
--  I’m interested in software development
--  I’m currently learning MIPS Architecture and Racket
+Hi, I’m Ryan Michaud
+-  I’m currently learning javascript/react and working on some projects relating to banjo playing optimization 
 - You can reach me at ryanwilliammichaud@gmail.com
 
 <!---
