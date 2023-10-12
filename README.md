@@ -1,6 +1,4 @@
-Hi, my name is Ryan Michaud
-
-Here's what I'm excited about right now
+Hi, my name is Ryan Michaud - here's what I'm excited about right now
 - I'm currently learning digital signal processing and machine learning
 - I'm currently working on some projects relating to banjo playing optimization
 - You can reach me at ryanwilliammichaud@gmail.com
